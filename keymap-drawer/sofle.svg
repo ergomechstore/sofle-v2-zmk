@@ -360,6 +360,14 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">RGUI</text>
 </g>
+<g class="combo combopos-0">
+<path d="M688,109 l-355,158" class="combo"/>
+<path d="M688,109 l162,-41" class="combo"/>
+<path d="M688,109 l106,-39" class="combo"/>
+<path d="M688,109 l55,-60" class="combo"/>
+<rect rx="6" ry="6" x="674" y="96" width="28" height="26" class="combo"/>
+<text x="688" y="109" class="combo tap"><tspan style="font-size: 64%">&amp;studio_un…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 398)" class="layer-lower">
@@ -607,6 +615,14 @@ path.combo {
 <g transform="translate(756, 259)" class="key trans keypos-59">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
+</g>
+<g class="combo combopos-0">
+<path d="M688,109 l-355,158" class="combo"/>
+<path d="M688,109 l162,-41" class="combo"/>
+<path d="M688,109 l106,-39" class="combo"/>
+<path d="M688,109 l55,-60" class="combo"/>
+<rect rx="6" ry="6" x="674" y="96" width="28" height="26" class="combo"/>
+<text x="688" y="109" class="combo tap"><tspan style="font-size: 64%">&amp;studio_un…</tspan></text>
 </g>
 </g>
 </g>
@@ -863,6 +879,14 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
+<g class="combo combopos-0">
+<path d="M688,109 l-355,158" class="combo"/>
+<path d="M688,109 l162,-41" class="combo"/>
+<path d="M688,109 l106,-39" class="combo"/>
+<path d="M688,109 l55,-60" class="combo"/>
+<rect rx="6" ry="6" x="674" y="96" width="28" height="26" class="combo"/>
+<text x="688" y="109" class="combo tap"><tspan style="font-size: 64%">&amp;studio_un…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1193)" class="layer-adjust">
@@ -1087,6 +1111,14 @@ path.combo {
 </g>
 <g transform="translate(756, 259)" class="key keypos-59">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+</g>
+<g class="combo combopos-0">
+<path d="M688,109 l-355,158" class="combo"/>
+<path d="M688,109 l162,-41" class="combo"/>
+<path d="M688,109 l106,-39" class="combo"/>
+<path d="M688,109 l55,-60" class="combo"/>
+<rect rx="6" ry="6" x="674" y="96" width="28" height="26" class="combo"/>
+<text x="688" y="109" class="combo tap"><tspan style="font-size: 64%">&amp;studio_un…</tspan></text>
 </g>
 </g>
 </g>

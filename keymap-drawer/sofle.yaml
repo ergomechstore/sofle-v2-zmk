@@ -185,3 +185,6 @@ layers:
   - ''
   - ''
   - ''
+combos:
+- p: [53, 11, 10, 9]
+  k: '&studio_unlock'
